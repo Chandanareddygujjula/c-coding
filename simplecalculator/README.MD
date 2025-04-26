@@ -19,7 +19,7 @@ Here we are taking two user inputs (a&b), cause to perform the choosen calculati
 if an operation is selected (1-4) then :  
 if the user choose 1 -> it displays Addition (a+b).  
 if the user choose 2 -> it displays Subtraction (a-b).  
-if the user choose 3 -> it displays Multiplication (a*b).
+if the user choose 3 -> it displays Multiplication (a*b).  
 if the user choose 4 -> it displays Division (a/b).
 
 
