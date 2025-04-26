@@ -13,6 +13,18 @@ It is a conditional statement.
 i. if condition 1 is true, it executes the block of code. And reamining conditions will skip.  
 ii. if condition 1 is false, it checks the else if condition, if it is true then it executes.  
   
+# Syntax :
+if(condition)  
+{  
+    // code block  
+}  
+else  
+{  
+    //code block  
+}  
+i. if(condition) -> checks if the condition is true.  
+ii. if true, the first block of code runs. if false, the else block of code runs. 
+  
 The user selects an option by entering a number 1-5.  
 if 5 is selected then the program displays a thankyou message and ends the program.  
 Here we are taking two user inputs (a&b), cause to perform the choosen calculations.  
@@ -21,6 +33,19 @@ if the user choose 1 -> it displays Addition (a+b).
 if the user choose 2 -> it displays Subtraction (a-b).  
 if the user choose 3 -> it displays Multiplication (a*b).  
 if the user choose 4 -> it displays Division (a/b).
+
+# Expected Output :
+Welcome to this simple calculator  
+Choose option :  
+1)Addition  
+2)Subtraction  
+3)Multiplication  
+4)Division  
+5)Exit 
+Enter Option : 3   
+Enter value of a: 20  
+Enter value of b: 25  
+Multiplication : 500
 
 
 
