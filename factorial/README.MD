@@ -20,5 +20,5 @@ Increment/Decrement -> Increasing or Decreasing (i.e.,  i++,++i,i--,--i).
 As we are writing  fact*=i -> that means fact is multliplying with fact and i.  
   
 # Expected Output :
- Enter an integer: 5   (Take any integer value)
+ Enter an integer: 5   (Take any integer value)  
  Factorial of 5 = 120  
