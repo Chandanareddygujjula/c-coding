@@ -5,7 +5,7 @@ int declaring -> i,n,fact variables.
 Initializing a variable fact to 1 (fact=1).   
 Here we vare using "for loop".  
 # for Loop :
-It is a conditional statement.
+It is a conditional statement.  
 for loop -> used to repeat a block of code a certain number of times.  
     
 # Syntax :
