@@ -9,7 +9,7 @@ Setting a=b
 Setting b=c  
 Calculating c=a+b  
   
-# Expected Output :
+## Expected Output :
 Enter the number of terms: 10
 Fibonacci Series: 0  
 1  
