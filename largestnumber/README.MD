@@ -7,7 +7,7 @@ i. if b is greater than the current largest, then the largest is updated to b.
 ii. if c is greater than the updated largest, then the largest is updated to c.  
 Atlast, the program prints the value of largest.  
   
-# Expected Output :
+## Expected Output :
 Enter first number: 5  
 Enter second number: 3  
 Enter third numbers: 8  
