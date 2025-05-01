@@ -23,16 +23,16 @@ int main()
 Here we vare using "for loop".  
 ## for Loop :
 It is a conditional statement.  
-for loop -> used to repeat a block of code a certain number of times.  
+**for loop** -> used to repeat a block of code a certain number of times.  
     
 ### Syntax :
 for(Initialization; Condition; Increment/Decrement)  
 {  
     // code block  
 }  
-Initialization -> initialize a starting numnber ( i.e.,  i=0,1,2,3......n).  
-Condition -> loop runs when the condition is true (i.e.,  i<=n,i>=n....etc).  
-Increment/Decrement -> Increasing or Decreasing (i.e.,  i++,++i,i--,--i).  
+**Initialization** -> initialize a starting numnber ( i.e.,  i=0,1,2,3......n).  
+**Condition** -> loop runs when the condition is true (i.e.,  i<=n,i>=n....etc).  
+**Increment/Decrement** -> Increasing or Decreasing (i.e.,  i++,++i,i--,--i).  
   
 As we are writing  fact*=i -> that means fact is multliplying with fact and i.  
   
