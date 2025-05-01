@@ -51,7 +51,7 @@ It is a conditional statement.
 i. if condition 1 is true, it executes the block of code. And reamining conditions will skip.  
 ii. if condition 1 is false, it checks the else if condition, if it is true then it executes.  
   
-## Syntax :
+**Syntax** :
 if(condition)  
 {  
     // code block  
@@ -72,7 +72,7 @@ if the user choose 2 -> it displays Subtraction (a-b).
 if the user choose 3 -> it displays Multiplication (a*b).  
 if the user choose 4 -> it displays Division (a/b).
 
-## Expected Output :
+### Expected Output :
 Welcome to this simple calculator  
 Choose option :  
 1)Addition  
