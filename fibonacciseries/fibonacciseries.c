@@ -10,9 +10,9 @@ int main()
     for(i=3;i<=n;++i)
     {
         printf("%d\n",c);
+        c=a+b;
         a=b;
         b=c;
-        c=a+b;
     }
     return 0;
 }
