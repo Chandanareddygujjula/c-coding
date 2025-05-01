@@ -51,7 +51,7 @@ It is a conditional statement.
 i. if condition 1 is true, it executes the block of code. And reamining conditions will skip.  
 ii. if condition 1 is false, it checks the else if condition, if it is true then it executes.  
   
-**Syntax** :
+### Syntax :  
 if(condition)  
 {  
     // code block  
